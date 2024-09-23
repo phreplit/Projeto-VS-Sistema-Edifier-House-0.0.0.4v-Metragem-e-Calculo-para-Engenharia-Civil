@@ -2,7 +2,7 @@
 
 ![sisphotosun](https://repository-images.githubusercontent.com/861831227/bc1550f5-b978-4729-ba8b-a903b62c2d4a)
 
-Software desenvolvido em C Sharp com library Windows Forms, desenvolvido para Metragem e Calculo para Engenharia Civil, no software é possível calcular área de terreno em Metros Quadrados, calcular perímetro de imóvel em metros e calcular a quantidade de blocos por Metros Quadrados para construir um muro.
+Software desenvolvido em C Sharp com library Windows Forms, desenvolvido para Metragem e Calculo para Engenharia Civil, no software é possível calcular área de terreno em Metros Quadrados, calcular perímetro de imóvel em metros e calcular a quantidade de blocos por Metros Quadrados para construir um muro ou parede.
 
 Necessário a instalação do .NET Framework versão minima v4.0 ou especifica v4.7.2.
 
